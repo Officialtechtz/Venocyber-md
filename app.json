@@ -8,7 +8,7 @@
   
   "env": {
     "OWNER_NAME": {
-      "description": "Name of Bot Owner",    
+      "description": "joshtechtz",    
       "value": "ᴠᴇɴᴏᴄʏʙᴇʀ ᴛᴇᴄʜ😘",
       "required" :true
     },   
@@ -25,13 +25,13 @@
       "required" :true
     },
     "BOT_NAME": {
-      "description": " NAME FOR BOT",
+      "description": " joshtechtz",
       "required" :true,    
-      "value": "𝛁𝚵𝚴𝚯𝐂𝐘𝚩𝚵𝚪 𝚳𝐃"
+      "value": "joshtz"
     }, 
     "IMAGE": {
       "description": "Image for bot",
-      "required" :true,    
+      "required" :false,    
       "value": "https://telegra.ph/file/12b0fb245e6b8ba4bf718.jpg"
     }, 
     "TZ": {
@@ -102,7 +102,7 @@
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
       "required" :true,
-      "value": "255698101622"
+      "value": "255626129193"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
